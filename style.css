@@ -1,0 +1,87 @@
+h2{ background-color: beige;
+	color: saddlebrown;
+	padding: 5px;
+    
+}
+
+h3{ background-color: beige;
+	color: saddlebrown;
+	padding: 5px;
+    
+}
+
+h1{ text-align: center;
+    text-decoration: none;
+    background-color: beige;
+    color: saddlebrown;
+    font-size: 65px;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+h4{  text-align: center;
+    text-decoration: none;
+    background-color: beige;
+    color: saddlebrown;
+    font-size: 12px;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+p{  color: saddlebrown;
+    font-family: Helvetica, sans-serif;
+    
+}
+
+.gallery img{
+    width: 18%;
+    vertical-align: middle;
+    
+    
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    background-color: cornsilk;
+    color: saddlebrown;
+}
+
+#menu{ text-align: center;
+        width: 100%;
+        height: 40px;
+        background-color: beige;
+    
+        color: saddlebrown;
+        padding-top: 12px;
+    
+}
+
+#menu a:hover {
+    background-color: burlywood;
+    color: beige;
+}
+
+#menu a{
+    color: saddlebrown;
+    font-family:Helvetica, sans-serif ;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    
+.cart-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.cart-button :hover {
+    background-color: lightyellow;
+}
